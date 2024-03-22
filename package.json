@@ -1,0 +1,19 @@
+{
+  "name": "dolorevoluptas",
+  "version": "1.0.0",
+  "description": "A simple Web3 project for interacting with Ethereum blockchain",
+  "main": "index.js",
+  "keywords": [
+    "corporis",
+    "ethereum"
+  ],
+  "author": "DarianaKunde",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RileyLueilwitz/dolorevoluptas.git"
+  }
+}
